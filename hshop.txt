@@ -1,3 +1,2 @@
-*.erista.me
 *.hscontent.my
 *.hshopusercontent.com
