@@ -1,2 +1,2 @@
-*.hscontent.my
-*.hshopusercontent.com
+download4.hscontent.my
+dl.hshopusercontent.com
